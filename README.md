@@ -1,5 +1,3 @@
-<iframe src="https://gifer.com/embed/Ry6p" width="480" height="480" frameborder="0" allowfullscreen></iframe>
-<p><a href="https://gifer.com">via GIFER</a></p>
 
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
 <h3 align="center">A passionate web developer from India</h3>
