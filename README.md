@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](<iframe src="https://gifer.com/embed/Ry6p" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>)
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
@@ -7,13 +7,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **Node Backend Development And React.js**
+- 🔭 I’m currently working on **Frontend development**
 
 - 🌱 I’m currently learning **NodeJS, React.js**
 
 - 👯 I’m looking to contribute on **Open Source Project**
 
-- 👨‍💻 All of my projects are available at https://mrunalibind.github.io/
+- 👨‍💻 All of my projects are available at ankitaksharma9763@gmail.com
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js React.js**
 
 - 📫 How to reach me **ankitaksharma9763@gmail.com**
