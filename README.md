@@ -1,216 +1,217 @@
-<h1 align="center">Ankit Sharma</h1>
+<h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
+
+<h3 align="center">
+Full Stack Engineer • Desktop Application Developer • Product Builder
+</h3>
 
 <p align="center">
-  <strong>Product-Focused Software Engineer</strong>
+React • TypeScript • Electron • Node.js • .NET • C#
 </p>
 
 <p align="center">
-  Building Enterprise Applications • Desktop Software • AI-Powered Tools
+Building scalable web applications, desktop software, enterprise platforms.
 </p>
 
 <p align="center">
-  <a href="https://ankitsharma745.github.io">Portfolio</a> •
-  <a href="https://github.com/AnkitSharma745">GitHub</a> •
-  <a href="https://www.linkedin.com/in/ankit-sharma745">LinkedIn</a>
+<a href="https://ankitsharma745.github.io">Portfolio</a> •
+<a href="https://github.com/AnkitSharma745">GitHub</a> •
+<a href="https://www.linkedin.com/in/ankit-sharma745">LinkedIn</a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;Desktop+Application+Developer;React+%7C+TypeScript+%7C+Electron;Node.js+%7C+.NET+%7C+C%23;Building+AI-Powered+Developer+Tools;Exploring+Software+Architecture+and+System+Design" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 Overview
 
-I build software products that solve real operational problems.
+Full Stack Software Engineer with experience building enterprise web applications, Electron desktop applications, e-commerce automation systems, enterprise management platforms, and developer productivity tools.
 
-My focus is on designing scalable user experiences, desktop applications, monitoring systems, automation platforms, and developer tools with strong emphasis on performance, reliability, maintainability, and product thinking.
+My work spans frontend architecture, backend services, desktop engineering, application performance optimization, monitoring systems, and product development.
 
-### Areas of Interest
 
-* Product Engineering
-* Electron Desktop Applications
-* Enterprise Frontend Systems
-* AI-Powered Developer Tools
-* Software Architecture
-* System Diagnostics & Monitoring
-* Full-Stack Product Development
-* Developer Productivity
+## 🚀 What I Build
 
----
+### Enterprise Web Applications
 
-## What I'm Building
+- Multi-Tenant Systems
+- Product Management
+- Category Management
+- Order Management
+- Role-Based Access Control
+- Localization
 
-### AI-Powered Log Monitoring Platform
+### Desktop Applications
 
-A next-generation Electron desktop application focused on reducing manual log investigation through intelligent analysis and automated diagnostics.
+- Electron Applications
+- Secure IPC Architecture
+- Process Management
+- Watchdog Systems
+- Auto Recovery Solutions
+- Monitoring Tools
 
-#### Core Capabilities
+### Backend Services
 
-* Real-Time Log Monitoring
-* Large-Scale Log Processing
-* AI-Assisted Troubleshooting
-* Anomaly Detection
-* Windows Diagnostics
-* Performance Analysis
-* Developer Productivity Tooling
-* Observability & Monitoring
-
----
-
-## Engineering Domains
-
-### Enterprise Applications
-
-* Multi-Tenant Systems
-* Role-Based Access Control
-* Localization & Internationalization
-* Payment Integrations
-* Product Management
-* Order Management
-* Admin Portals
-* Business Automation
-
-### Desktop Engineering
-
-* Electron Architecture
-* Secure IPC Communication
-* Process Management
-* Auto Recovery Systems
-* Watchdog Applications
-* Offline-First Systems
-* Logging & Diagnostics
-* Application Performance Optimization
-
-### AI & Monitoring
-
-* Log Intelligence
-* Diagnostics Automation
-* Observability
-* Alerting Systems
-* AI-Augmented Analysis
-* Monitoring Platforms
-
-### Software Architecture
-
-* Object-Oriented Programming
-* SOLID Principles
-* Design Patterns
-* Clean Architecture
-* Service Layer Pattern
-* Event-Driven Systems
-* Scalable Frontend Architecture
-* Maintainable Software Design
+- REST APIs
+- Authentication & Authorization
+- Business Logic Services
+- Logging & Diagnostics
+- Background Processing
+- System Integrations
+- Service Layer Architecture
 
 ---
 
-## Technology Stack
+## 🏗️ Featured Project
 
-### Frontend
+### Log Monitoring Platform
+
+A next-generation desktop application focused on reducing manual log investigation through intelligent monitoring, anomaly detection, diagnostics.
+
+#### Core Features
+
+- Real-Time Log Monitoring
+- Large Log File Processing
+- Intelligent Log Filtering
+- Anomaly Detection
+- Windows Diagnostics
+- Performance Monitoring
+- Developer Productivity Workflows
+
+---
+
+## 💡 Core Skills
+
+### Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,redux" />
 </p>
 
-### Desktop
+- React
+- TypeScript
+- JavaScript
+- Redux
+- Material UI
+- Responsive Design
+- Frontend Architecture
+- State Management
+
+### Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs" />
 </p>
 
-### Backend
+- Node.js
+- Express.js
+- .NET
+- C#
+- REST APIs
+- Authentication
+- Authorization
+- Business Logic Development
+
+### Desktop Development
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp" />
+<img src="https://skillicons.dev/icons?i=electron" />
 </p>
+
+- Electron
+- IPC Communication
+- Process Management
+- Monitoring Systems
+- Application Diagnostics
 
 ### Database
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools & Platforms
+- MongoDB
+- MySQL
+
+### Architecture & Design
+
+- Object-Oriented Programming
+- SOLID Principles
+- Design Patterns
+- Clean Architecture
+- Service Layer Pattern
+- Scalable System Design
+- Maintainable Software Design
+
+### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## Current Focus
+## 📌 Highlights
 
-* Advanced TypeScript
-* Software Architecture
-* System Design
-* Design Patterns
-* AI Engineering
-* Monitoring Systems
-* Full-Stack Development
-* Developer Tooling
-* Electron Ecosystem
-* Enterprise Product Development
+✔ Built production-grade React and TypeScript applications
 
----
+✔ Developed Electron desktop applications
 
-## Long-Term Vision
+✔ Worked across frontend, backend, and desktop layers
 
-My goal is to become an engineer capable of designing and building complete software products—from user experience to architecture, observability, automation, infrastructure, and AI-assisted systems.
+✔ Built enterprise management systems
 
-I am particularly interested in the intersection of:
+✔ Designed monitoring and logging solutions
 
-* Product Engineering
-* Artificial Intelligence
-* Developer Productivity
-* Enterprise Software
-* Monitoring Platforms
-* Diagnostics Automation
+✔ Developed scalable product features from scratch
+
+✔ Worked on e-commerce automation platforms
+
+✔ Focused on application performance and reliability
+
+✔ Continuously expanding expertise in backend engineering, software architecture, and system design
 
 ---
 
-## GitHub Analytics
+## 🎯 Current Focus
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkitSharma745&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharma745&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSharma745&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitSharma745&theme=tokyo-night&hide_border=true" />
-</p>
+- Software Architecture
+- System Design
+- Design Patterns
+- Backend Engineering
+- Monitoring Systems
+- Distributed Systems
+- Advanced TypeScript
+- .NET Ecosystem
+- Developer Productivity Tools
 
 ---
 
-## Connect
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://ankitsharma745.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" />
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnkitSharma745&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <a href="https://www.linkedin.com/in/ankit-sharma745">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
+<img height="170" src="https://streak-stats.demolab.com?user=AnkitSharma745&theme=tokyonight&hide_border=true" />
+</p>
 
-  <a href="https://github.com/AnkitSharma745">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharma745&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">
-  <i>Build Products • Solve Problems • Learn Deeply • Ship Continuously</i>
-</p>
+## 🌱 Learning & Growth
+
+Currently deepening my understanding of:
+
+- Backend Architecture
+- Distributed Systems
+- Domain Driven Design
+- Event Driven Architecture
+- Advanced .NET Development
+- Observability & Monitoring
+- Scalable Product Engineering
+
+---
