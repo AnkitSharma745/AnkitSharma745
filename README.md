@@ -190,16 +190,21 @@ A next-generation desktop application focused on reducing manual log investigati
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnkitSharma745&show_icons=true&theme=tokyonight&hide_border=true" />
+<table align="center">
+<tr>
+<td>
 
 <img height="170" src="https://streak-stats.demolab.com?user=AnkitSharma745&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
+</td>
+
+<td>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharma745&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
+</td>
+</tr>
+</table>
 ---
 
 ## 🌱 Learning & Growth
